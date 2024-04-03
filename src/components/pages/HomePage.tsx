@@ -166,7 +166,7 @@ const HomePage = () => {
 								<Link to="/login">Log in</Link>
 							</StyledHeaderLi>
 							<StyledHeaderLii>
-								<Link to="/register">Get Trello for free</Link>
+								<Link to="/registration">Get Trello for free</Link>
 							</StyledHeaderLii>
 						</StyledHeaderUl>
 					</Styledcontent>
